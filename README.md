@@ -1,6 +1,16 @@
-<div align="center">
-  <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGZ0Y2Fma3RoOGdocTVtbHYxZTY1eWR0Mzh4MmhraXF2dW91eXNqaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f4ztZcdm9Fi90vL4Zd/giphy.gif"  />
-</div>
+<img align="right" height="180" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGZ0Y2Fma3RoOGdocTVtbHYxZTY1eWR0Mzh4MmhraXF2dW91eXNqaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f4ztZcdm9Fi90vL4Zd/giphy.gif"  />
+
+###
+
+<h1 align="left">Sobre mim</h1>
+
+###
+
+<p align="left">- Front-end<br>- Desenvolvedor Javascript (React)<br>- Formado em Análise e Desenvolvimento de Sistemas (ADS)</p>
+
+###
+
+<h2 align="left">Estatísticas</h2>
 
 ###
 
@@ -12,11 +22,19 @@
 
 ###
 
+<h2 align="left">Linkedl</h2>
+
+###
+
 <div align="center">
   <a href="https://www.linkedin.com/in/danilo-mato-grosso-6981a735a" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="65" height="45" alt="linkedin logo"  />
   </a>
 </div>
+
+###
+
+<h2 align="left">Tecnologias</h2>
 
 ###
 
